@@ -1,5 +1,3 @@
-# qemu-notes
-
 # Share Internet with Virtual Raspberry Pi using QEMU
 
 1. Install **brctl**, **tunctl**, **libvirt**, **dnsmasq**, **qemu** and **kvm**
